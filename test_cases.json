@@ -10,6 +10,10 @@
   {
     "test_id": "TC-HAZ-001C",
     "requirement_id": "REQ-HAZ-001C"
+  },
+  {
+    "test_id": "TC-HAZ-001D",
+    "requirement_id": "REQ-HAZ-001D"
   }
 ]
   
