@@ -4,5 +4,15 @@
     "parent": "REQ-HAZ-001",
     "description": "Hazard analysis shall include biological hazards",
     "source": "117.130(a)"
-  }
+  },
+  {
+  "requirement_id": "REQ-HAZ-001B",
+  "description": "Hazard requirement B",
+  "source": "CFR"
+},
+{
+  "requirement_id": "REQ-HAZ-001C",
+  "description": "Hazard requirement C",
+  "source": "CFR"
+}
 ]
